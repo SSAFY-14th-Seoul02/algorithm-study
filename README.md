@@ -232,8 +232,8 @@
 
 | 주차 및 일자              | 종류 | 월(4.20) | 화(4.21) | 수(4.22) | 목(4.23) | 금(4.24) |
 |---------------------------|------|----------|----------|----------|----------|----------|
-| 17주차 (2026.04.20~24) | ALG  | [다리를 지나는 트럭(42583)](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | - | [구명보트(42885)](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | - | [아이템 줍기(87694)](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
-| 17주차 (2026.04.20~24) | SQL  | - | [과일로 만든 아이스크림 고르기(133025)](https://school.programmers.co.kr/learn/courses/30/lessons/133025) | - | [3월에 태어난 여성 목록 출력(131120)](https://school.programmers.co.kr/learn/courses/30/lessons/131120) | - |
+| 17주차 (2026.04.20~24) | ALG  | [다리를 지나는 트럭(42583 /L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | - | [구명보트(42885 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | - | [아이템 줍기(87694 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
+| 17주차 (2026.04.20~24) | SQL  | - | [과일로 만든 아이스크림 고르기(133025 / L1)](https://school.programmers.co.kr/learn/courses/30/lessons/133025) | - | [3월에 태어난 여성 목록 출력(131120 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/131120) | - |
 
 </details>
 
@@ -242,8 +242,8 @@
 
 | 주차 및 일자              | 종류 | 월(4.27) | 화(4.28) | 수(4.29) | 목(4.30) | 금(5.01) |
 |---------------------------|------|----------|----------|----------|----------|----------|
-| 18주차 (2026.04.27~05.01) | ALG  | [더 맵게(42626)](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | - | [전력망을 둘로 나누기(86971)](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | - | [N으로 표현(42895)](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
-| 18주차 (2026.04.27~05.01) | SQL  | - | [평균 일일 대여 요금 구하기(151136)](https://school.programmers.co.kr/learn/courses/30/lessons/151136) | - | [가격이 제일 비싼 식품의 정보 출력하기(131115)](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | - |
+| 18주차 (2026.04.27~05.01) | ALG  | [더 맵게(42626 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | - | [전력망을 둘로 나누기(86971 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | - | [N으로 표현(42895 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
+| 18주차 (2026.04.27~05.01) | SQL  | - | [평균 일일 대여 요금 구하기(151136 / L1)](https://school.programmers.co.kr/learn/courses/30/lessons/151136) | - | [가격이 제일 비싼 식품의 정보 출력하기(131115 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | - |
 
 </details>
 
