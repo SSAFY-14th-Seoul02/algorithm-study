@@ -247,6 +247,16 @@
 
 </details>
 
+<details>
+<summary>📘 5월 1주차 문제 목록 (2026.05.04 ~ 2026.05.08)</summary>
+
+| 주차 및 일자              | 종류 | 월(5.04) | 화(5.05) | 수(5.06) | 목(5.07) | 금(5.08) |
+|---------------------------|------|----------|----------|----------|----------|----------|
+| 19주차 (2026.05.04~05.08) | ALG  | [입국심사(43238 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | - | [가장 큰 수(42746 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | - | [의상(42578 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42578) |
+| 19주차 (2026.05.04~05.08) | SQL  | - | [조건에 맞는 도서와 저자 리스트 출력하기(144854 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | - | [재구매가 일어난 상품과 회원 리스트(131536 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/131536) | - |
+
+</details>
+
 <br/>
 <br/>
 
