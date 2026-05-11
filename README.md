@@ -257,6 +257,16 @@
 
 </details>
 
+<details>
+<summary>📘 5월 2주차 문제 목록 (2026.05.11 ~ 2026.05.15)</summary>
+
+| 주차 및 일자              | 종류 | 월(5.11) | 화(5.12) | 수(5.13) | 목(5.14) | 금(5.15) |
+|---------------------------|------|----------|----------|----------|----------|----------|
+| 20주차 (2026.05.11~05.15) | ALG  | [가장 먼 노드(49189 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | - | [조이스틱(42860 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | - | [카펫(42842 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |
+| 20주차 (2026.05.11~05.15) | SQL  | - | [강원도에 위치한 생산공장 목록 출력하기(131112 / L1)](https://school.programmers.co.kr/learn/courses/30/lessons/131112) | - | [없어진 기록 찾기(59042 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/59042) | - |
+
+</details>
+
 <br/>
 <br/>
 
