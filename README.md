@@ -267,6 +267,16 @@
 
 </details>
 
+<details>
+<summary>📘 5월 3주차 문제 목록 (2026.05.18 ~ 2026.05.22)</summary>
+
+| 주차 및 일자              | 종류 | 월(5.18) | 화(5.19) | 수(5.20) | 목(5.21) | 금(5.22) |
+|---------------------------|------|----------|----------|----------|----------|----------|
+| 21주차 (2026.05.18~05.22) | ALG  | [디스크 컨트롤러(42627 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | - | [프로세스(42587 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | - | [등굣길(42898 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |
+| 21주차 (2026.05.18~05.22) | SQL  | - | [12세 이하인 여자 환자 목록 출력하기(132201 / L1)](https://school.programmers.co.kr/learn/courses/30/lessons/132201) | - | [오프라인/온라인 판매 데이터 통합하기(131537 / L4)](https://school.programmers.co.kr/learn/courses/30/lessons/131537) | - |
+
+</details>
+
 <br/>
 <br/>
 
