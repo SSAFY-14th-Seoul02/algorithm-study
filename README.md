@@ -231,9 +231,49 @@
 <summary>📘 4월 4주차 문제 목록 (2026.04.20 ~ 2026.04.24)</summary>
 
 | 주차 및 일자              | 종류 | 월(4.20) | 화(4.21) | 수(4.22) | 목(4.23) | 금(4.24) |
-|---------------------------|--------|----------|----------|----------|----------|----------|
-| 17주차 (2026.04.20~24) | ALG     | 다리를 지나는 트럭(42583)    | -        | 구명보트(42584)    | -        | 아이템 줍기(42585)    |
-| 17주차 (2026.04.20~24) | SQL     | -        | 과일로 만든 아이스크림 고르기(133025)   | -        | 3월에 태어난 여성 목록 출력(133026)   | -        |
+|---------------------------|------|----------|----------|----------|----------|----------|
+| 17주차 (2026.04.20~24) | ALG  | [다리를 지나는 트럭(42583 /L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | - | [구명보트(42885 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | - | [아이템 줍기(87694 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/87694) |
+| 17주차 (2026.04.20~24) | SQL  | - | [과일로 만든 아이스크림 고르기(133025 / L1)](https://school.programmers.co.kr/learn/courses/30/lessons/133025) | - | [3월에 태어난 여성 목록 출력(131120 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/131120) | - |
+
+</details>
+
+<details>
+<summary>📘 4월 5주차 문제 목록 (2026.04.27 ~ 2026.05.01)</summary>
+
+| 주차 및 일자              | 종류 | 월(4.27) | 화(4.28) | 수(4.29) | 목(4.30) | 금(5.01) |
+|---------------------------|------|----------|----------|----------|----------|----------|
+| 18주차 (2026.04.27~05.01) | ALG  | [더 맵게(42626 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | - | [전력망을 둘로 나누기(86971 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | - | [N으로 표현(42895 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
+| 18주차 (2026.04.27~05.01) | SQL  | - | [평균 일일 대여 요금 구하기(151136 / L1)](https://school.programmers.co.kr/learn/courses/30/lessons/151136) | - | [가격이 제일 비싼 식품의 정보 출력하기(131115 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | - |
+
+</details>
+
+<details>
+<summary>📘 5월 1주차 문제 목록 (2026.05.04 ~ 2026.05.08)</summary>
+
+| 주차 및 일자              | 종류 | 월(5.04) | 화(5.05) | 수(5.06) | 목(5.07) | 금(5.08) |
+|---------------------------|------|----------|----------|----------|----------|----------|
+| 19주차 (2026.05.04~05.08) | ALG  | [입국심사(43238 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | - | [가장 큰 수(42746 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | - | [의상(42578 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42578) |
+| 19주차 (2026.05.04~05.08) | SQL  | - | [조건에 맞는 도서와 저자 리스트 출력하기(144854 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | - | [재구매가 일어난 상품과 회원 리스트(131536 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/131536) | - |
+
+</details>
+
+<details>
+<summary>📘 5월 2주차 문제 목록 (2026.05.11 ~ 2026.05.15)</summary>
+
+| 주차 및 일자              | 종류 | 월(5.11) | 화(5.12) | 수(5.13) | 목(5.14) | 금(5.15) |
+|---------------------------|------|----------|----------|----------|----------|----------|
+| 20주차 (2026.05.11~05.15) | ALG  | [가장 먼 노드(49189 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | - | [조이스틱(42860 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | - | [카펫(42842 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |
+| 20주차 (2026.05.11~05.15) | SQL  | - | [강원도에 위치한 생산공장 목록 출력하기(131112 / L1)](https://school.programmers.co.kr/learn/courses/30/lessons/131112) | - | [없어진 기록 찾기(59042 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/59042) | - |
+
+</details>
+
+<details>
+<summary>📘 5월 3주차 문제 목록 (2026.05.18 ~ 2026.05.22)</summary>
+
+| 주차 및 일자              | 종류 | 월(5.18) | 화(5.19) | 수(5.20) | 목(5.21) | 금(5.22) |
+|---------------------------|------|----------|----------|----------|----------|----------|
+| 21주차 (2026.05.18~05.22) | ALG  | [디스크 컨트롤러(42627 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | - | [프로세스(42587 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | - | [등굣길(42898 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |
+| 21주차 (2026.05.18~05.22) | SQL  | - | [12세 이하인 여자 환자 목록 출력하기(132201 / L1)](https://school.programmers.co.kr/learn/courses/30/lessons/132201) | - | [오프라인/온라인 판매 데이터 통합하기(131537 / L4)](https://school.programmers.co.kr/learn/courses/30/lessons/131537) | - |
 
 </details>
 
