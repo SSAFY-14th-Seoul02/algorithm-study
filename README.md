@@ -277,6 +277,16 @@
 
 </details>
 
+<details>
+<summary>📘 5월 4주차 문제 목록 (2026.05.25 ~ 2026.05.29)</summary>
+
+| 주차 및 일자              | 종류 | 월(5.25) | 화(5.26) | 수(5.27) | 목(5.28) | 금(5.29) |
+|---------------------------|------|----------|----------|----------|----------|----------|
+| 22주차 (2026.05.25~05.29) | ALG  | [베스트앨범(42579 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | - | [H-Index(42747 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | - | [피로도(87946 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |
+| 22주차 (2026.05.25~05.29) | SQL  | - | [ROOT 아이템 구하기(273710 / L2)](https://school.programmers.co.kr/learn/courses/30/lessons/273710) | - | [카테고리 별 도서 판매량 집계하기(144855 / L3)](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | - |
+
+</details>
+
 <br/>
 <br/>
 
